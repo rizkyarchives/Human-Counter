@@ -11,7 +11,7 @@ The features are:
 
 ## Output
 Here are some images showcasing the output of this program:
-[Alt Text](https://github.com/rizkyarchives/M-Banking-Simulator/blob/cde87d18cd896a399affc8db1f6d8e838f76c92f/output.png)
+![Alt Text](https://github.com/rizkyarchives/M-Banking-Simulator/blob/cde87d18cd896a399affc8db1f6d8e838f76c92f/output.png)
 
 ## Author
 * Rizky Maulana Hadi
