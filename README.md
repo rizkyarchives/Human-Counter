@@ -13,8 +13,8 @@ The features are:
 Here are some images showcasing the output of this program:
 
 ## Author
-Rizky Maulana Hadi
-Hilmy Aditara J.
+* Rizky Maulana Hadi
+* Hilmy Aditara J.
 
 ## License
-This project is licensed under the terms of the [MIT license].
+This project is licensed under the terms of the [MIT license](https://github.com/rizkyarchives/M-Banking-Simulator/blob/main/LICENSE).
